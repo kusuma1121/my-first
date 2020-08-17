@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>technews</titile>
+</head>
+<body>
+<h1>technology</h1>
+<form><label>name</label>
+          <input>
+          <label> your queation</label>
+          <input>
+          <button> send </button>
+         </form>
+         </body>
+          </html>
+ 
